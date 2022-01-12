@@ -1,0 +1,18 @@
+{
+	"name": "window-extra",
+	"version": "1.2.1",
+	"description": "node-window增强",
+	"main": "/dist/index.js",
+	"scripts": {
+		"build": "tsc",
+		"example": "node example\\index.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^17.0.8"
+	},
+	"dependencies": {
+		"iconv-lite": "^0.6.3"
+	}
+}
