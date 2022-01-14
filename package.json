@@ -1,8 +1,8 @@
 {
 	"name": "window-extra",
-	"version": "1.2.1",
+	"version": "1.2.4",
 	"description": "node-window增强",
-	"main": "/dist/index.js",
+	"main": "./dist/index.js",
 	"scripts": {
 		"build": "tsc",
 		"example": "node example\\index.js"
@@ -11,8 +11,5 @@
 	"license": "ISC",
 	"devDependencies": {
 		"@types/node": "^17.0.8"
-	},
-	"dependencies": {
-		"iconv-lite": "^0.6.3"
 	}
 }

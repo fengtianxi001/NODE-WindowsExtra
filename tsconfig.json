@@ -1,5 +1,5 @@
 {
-	"include": ["./lib"],
+	"include": ["./lib/*"],
 	"compilerOptions": {
 		"target": "es5",
 		"module": "commonjs",
