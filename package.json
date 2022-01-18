@@ -7,9 +7,17 @@
 		"build": "tsc",
 		"example": "node example\\index.js"
 	},
-	"author": "",
+	"author": "fengtianxi001",
 	"license": "ISC",
 	"devDependencies": {
 		"@types/node": "^17.0.8"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fengtianxi001/Node-Window-Extra.git"
+	},
+	"bugs": {
+		"url": "https://github.com/fengtianxi001/Node-Window-Extra/issues"
+	},
+	"homepage": "https://github.com/fengtianxi001/Node-Window-Extra#readme"
 }

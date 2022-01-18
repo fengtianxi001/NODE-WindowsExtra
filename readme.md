@@ -1,19 +1,19 @@
-# window-extra
+# 🚀 window-extra
 
-## 1. 安装
+## 1. Installation
 
 ```shell
 npm i window-extra
 ```
 
-## 2. 使用
+## 2. Usage
 
 ```javascript
 const windowExtra = require("window-extra")
 ```
 
 
-## 3. API详情
+## 3. API
 
 
 
